@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Travel\\travel-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117C903C-34B1-445E-BB0A-3D66A40EC3BF}|travel-api\\travel-api.csproj|d:\\projects\\travel\\travel-api\\travel-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{117C903C-34B1-445E-BB0A-3D66A40EC3BF}|travel-api\\travel-api.csproj|solutionrelative:travel-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C903C-34B1-445E-BB0A-3D66A40EC3BF}|travel-api\\travel-api.csproj|d:\\projects\\travel\\travel-api\\travel-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{117C903C-34B1-445E-BB0A-3D66A40EC3BF}|travel-api\\travel-api.csproj|solutionrelative:travel-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Travel\\travel-api\\travel-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "travel-api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Travel\\travel-api\\travel-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "travel-api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T16:14:39.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Travel\\travel-api\\travel-api\\appsettings.json",
+              "RelativeDocumentMoniker": "travel-api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Travel\\travel-api\\travel-api\\appsettings.json",
+              "RelativeToolTip": "travel-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T16:14:24.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
